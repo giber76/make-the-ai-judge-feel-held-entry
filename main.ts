@@ -14,7 +14,7 @@ const TEXT =
   "You fell asleep in the car, and your father carries you in. " +
   "His steps are slow on the dark stairs. " +
   "The house is dark and quiet. " +
-  "He lays you down, and the bed takes your weight. " +
+  "He lays you down, and the bed holds your weight. " +
   "Outside, the night goes on without you. " +
   "The morning can wait.";
 

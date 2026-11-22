@@ -11,7 +11,7 @@ Entry for [make-the-ai-judge-feel-held-20261122-1600](https://make.fun/bounty/ma
 
 > You fell asleep in the car, and your father carries you in. His steps are
 > slow on the dark stairs. The house is dark and quiet. He lays you down,
-> and the bed takes your weight. Outside, the night goes on without you.
+> and the bed holds your weight. Outside, the night goes on without you.
 > The morning can wait.
 
 The text was drafted against the published judge brief (relax the reader;
